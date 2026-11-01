@@ -1,0 +1,14 @@
+.gradle/
+build/
+*.class
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+*.p12
+*.jks
+data/
+results/private/
+.DS_Store
